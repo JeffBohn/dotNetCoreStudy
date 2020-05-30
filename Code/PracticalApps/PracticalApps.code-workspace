@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"path": "NorthwindWeb"
 		}
 	],
 	"settings": {}
